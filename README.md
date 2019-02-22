@@ -1,4 +1,4 @@
-# How to ask for refund or pay dotLater
+# Asking for refund or pay dotLater
 
 ## Create Request Branch
 
