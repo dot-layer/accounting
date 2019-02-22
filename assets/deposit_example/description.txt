@@ -1,5 +1,0 @@
-# name: Jean-Thomas Baillargeon
-# event date: 2019/03/12
-# type: deposit
-## check_1.jpg: 1337$
-

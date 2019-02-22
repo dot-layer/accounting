@@ -15,8 +15,10 @@
 1. Add all relevant receipts / check images
 2. Create a file named `description.txt`
 
-### In the description file:
+### In the description (JSON) file :
 1. Write your name
-2. Write the date of the event
-3. List all the documents (their file name) and the associated amount (refund or deposit) for each
+2. Write the date of the event (in `YYYY/MM/DD`) - yes with trailing zeros
+3. Write the type of request (`refund` or `deposit`)
+4. Write the reason for this request
+4. List all the documents (the file names) and the associated amount for each
 

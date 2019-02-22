@@ -1,0 +1,11 @@
+{
+    "name": "Jean-Thomas Baillargeon",
+    "event_date": "2019/03/12",
+    "type": "refund",
+    "reason": "MeetUp expenses",
+    "documents": [
+        {"reciept_1.jpg":150},
+        {"reciept_2.jpg":50},
+        {"reciept_3.jpg":60},
+    ]
+}

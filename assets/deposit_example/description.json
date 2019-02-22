@@ -1,0 +1,10 @@
+{
+    "name": "Jean-Thomas Baillargeon",
+    "event_date": "2019/03/12",
+    "type": "deposit",
+    "reason": "MeetUp sponsorship",
+    "documents": [
+        {"check_1.jpg":1337}
+    ]
+}
+
