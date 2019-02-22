@@ -9,6 +9,7 @@
 3. Create a directory in the asset directory (same name of your branch)
 4. Fill in the directory with documents and description file
 5. Create a pull request
+6. When everything will be settled, I will merge the branch
 
 ### In the directory:
 
