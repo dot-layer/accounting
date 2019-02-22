@@ -14,7 +14,7 @@
 ### In the directory:
 
 1. Add all relevant receipts / check images
-2. Create a file named `description.txt`
+2. Create a file named `description.json`
 
 ### In the description (JSON) file :
 1. Write your name
