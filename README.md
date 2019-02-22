@@ -1,9 +1,11 @@
-# Asking for refund or pay dotLater
+# Asking for refund or deposit to dotLater
 
 ## Create Request Branch
 
 1. Pull the repository
-2. Create a branch named `request-date-(yyyy-mm-dd)_your-name_refund`
+2. Create a branch named 
+    * for a refund:  `request-date-(yyyy-mm-dd)_your-name_refund`
+    * for a deposit:  `request-date-(yyyy-mm-dd)_your-name_deposit`
 3. Create a directory in the asset directory (same name of your branch)
 4. Fill in the directory with documents and description file
 5. Create a pull request
