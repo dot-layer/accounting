@@ -4,6 +4,6 @@
     "type": "deposit",
     "reason": "Personnal donations to .Layer from first general assembly"
     "documents": [
-        {"list_of_donators.txt"}
+        {"list_of_donators.txt",  "check-AGITT.png"}
     ]
 }
