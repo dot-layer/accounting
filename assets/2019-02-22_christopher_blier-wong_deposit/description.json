@@ -2,8 +2,8 @@
     "name": "Christopher Blier-Wong",
     "event_date": "2019/02/22",
     "type": "deposit",
-    "reason": "Personnal donations to .Layer from first general assembly"
+    "reason": "Personnal donations to .Layer from first general assembly",
     "documents": [
-        {"list_of_donators.txt",  "check-AGITT.png"}
+	    "list_of_donators.txt",  "check-AGITT.png"
     ]
 }
