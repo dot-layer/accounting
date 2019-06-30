@@ -1,3 +1,7 @@
 transaction_id;date;detail;debit;credit;etat_financier;destination;destination_detail_1;destination_detail_2;destination_detail_3
 1;12-03-2019;Restant Souper Tomas Tam;35;;bilan;actif;banque;;
 1;12-03-2019;Restant Souper Tomas Tam;;35;er;revenu;don;membre;Christopher-blier-wong
+2;2019-05-21;Commandite - ML insurance;575;;bilan;actif;banque;;
+2;2019-05-21;Commandite - ML insurance;;575;er;revenu;Meetup;A19;
+3;2019-06-27;Photographie - Pikur;574.88;;er;depense;Meetup;A19;Pikur
+3;2019-06-27;Paiement - Pikur;;574.88;bilan;actif;banque;;

@@ -1,0 +1,9 @@
+{
+    "name": "Stéphane Caron",
+    "event_date": "2018/11/10",
+    "type": "deposit",
+    "reason": "Amount received at Meetup ML in insurance aimed to pay Pikur contract",
+    "documents": [
+        {"check_meetup.jpg":575.00}
+    ]
+}
