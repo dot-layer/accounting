@@ -4,7 +4,7 @@
     "type": "refund",
     "reason": "Meetup expenses for foods",
     "documents": [
-        {"IMG_20190404_180508.jpg":-238.58},
+        {"IMG_20190404_180508.jpg":238.58},
        
     ]
 }
