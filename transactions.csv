@@ -7,3 +7,5 @@ transaction_id;date;detail;debit;credit;etat_financier;destination;destination_d
 3;2019-06-27;Paiement - Pikur;;574.88;bilan;actif;banque;;
 4;2019-04-04;Inscription Workshop - ML assurance;;605;er;revenu;Workshop;A19;Inscription
 4;2019-07-04;Paiement - Evenbrite;605;;bilan;actif;banque;;
+5;2019-04-04;Nourriture Meetup - ML assurance;238.58;;er;depense;Meetup;A19;Nourriture
+5;2019-07-04;Remboursement David;;238.58;bilan;actif;banque;;
