@@ -1,0 +1,12 @@
+{
+    "name": "David Beauchemin",
+    "event_date": "2019/02/09",
+    "type": "deposit",
+    "reason": "Eventbrite deposit",
+    "documents": [
+        {"Paiements-276452173-54775227179.pdf":100},
+	{"Paiements-276452173-55184495311.pdf":400},
+	{"Paiements-276452173-55185293699.pdf":105}
+    ]
+}
+
