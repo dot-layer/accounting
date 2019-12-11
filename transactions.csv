@@ -9,3 +9,5 @@ transaction_id;date;detail;debit;credit;etat_financier;destination;destination_d
 4;2019-07-04;Paiement - Evenbrite;605;;bilan;actif;banque;;
 5;2019-04-04;Nourriture Meetup - ML assurance;238.58;;er;depense;Meetup;A19;Nourriture
 5;2019-07-04;Remboursement David;;238.58;bilan;actif;banque;;
+6;2019-12-10;Commandite – MeetUp Réseautage;1000;;bilan;actif;banque;;
+6;2019-12-10;Commandite – MeetUp Réseautage;;1000;er;revenu;Meetup;A19;
