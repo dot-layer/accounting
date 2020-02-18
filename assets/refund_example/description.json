@@ -3,6 +3,7 @@
     "event_date": "2019/03/12",
     "type": "refund",
     "reason": "MeetUp expenses",
+    "total":260.0,
     "documents": [
         {"reciept_1.jpg":150},
         {"reciept_2.jpg":50},
