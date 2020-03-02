@@ -1,0 +1,15 @@
+{
+    "name": "David Beauchemin",
+    "event_date": "2019/11/16",
+    "type": "refund",
+    "reason": "Meetup 5@7 dépenses",
+    "documents": [
+        {"IMG_20191116_104615.jpg":41.39},
+        {"IMG_20191116_104705.jpg":486.34},
+        {"IMG_20191116_104737.jpg":174.91},
+        {"IMG_20191116_153926.jpg":25},
+        {"facture-verre.pdf":3.73},
+        {"permis_alcool.pdf": 47.00}
+    ],
+    "total": 778.37
+}
