@@ -11,3 +11,13 @@ transaction_id;date;detail;debit;credit;etat_financier;destination;destination_d
 5;2019-07-04;Remboursement David;;238.58;bilan;actif;banque;;
 6;2020-03-02;Factures Meetup;778.37;;er;depense;Meetup;A19;Nourriture
 6;2020-03-02;Remboursement David;;778.37;bilan;actif;banque;;
+7;2020-05-06;Membership 2020 - Samuel Levesque ;20;0;bilan;actif;banque;
+7;2020-05-06;Membership 2020 - Frederik Paradis;20;0;bilan;actif;banque;
+7;2020-05-06;Membership 2020 - Etienne Larrivee-Hardy;20;0;bilan;actif;banque;
+7;2020-05-06;Membership 2020 - Bruno Tremblay;20;0;bilan;actif;banque;
+7;2020-05-06;Membership 2020 - Marouane Yassine;20;0;bilan;actif;banque;
+7;2020-05-15;Membership 2020 - David Beauchemin;20;0;bilan;actif;banque;
+7;2020-05-15;Membership 2020 - Stephane Caron;20;0;bilan;actif;banque;
+7;2020-05-26;Membership 2020 - Jean-Thomas Baillargeon;20;0;bilan;actif;banque;
+7;2020-05-26;Membership 2020 - Guillaume Chevalier;20;0;bilan;actif;banque;
+7;2020-05-26;Membership 2020;;180;er;revenu;membership;
