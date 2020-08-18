@@ -20,4 +20,9 @@ transaction_id,date,detail,debit,credit,etat_financier,destination,destination_d
 7,2020-05-15,Membership 2020 - Stephane Caron,20,0,bilan,actif,banque,,
 7,2020-05-26,Membership 2020 - Jean-Thomas Baillargeon,20,0,bilan,actif,banque,,
 7,2020-05-26,Membership 2020 - Guillaume Chevalier,20,0,bilan,actif,banque,,
-7,2020-05-26,Membership 2020,,180,er,revenu,membership,,
+7,2020-07-13,Membership 2020 - Christopher Blier-Wong,20,0,bilan,actif,banque,,
+7,2020-05-26,Membership 2020,,200,er,revenu,membership,,
+8,2020-08-18,Remboursement Stephane,150,,bilan,actif,banque,,
+8,2020-08-18,Pénalité de retard de paiement,,35,er,revenu,membership,,
+8,2020-08-18,Ouverture du dossier au registraire,,115,er,revenu,membership,,
+
