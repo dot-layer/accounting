@@ -1,4 +1,4 @@
-# Asking for refund or deposit to dotLater
+# Asking for refund or deposit to dotLayer
 
 ## Create Request Branch
 

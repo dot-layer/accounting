@@ -1,0 +1,11 @@
+{
+    "name": "Stephane Caron",
+    "event_date": "2020/06/30",
+    "type": "refund",
+    "reason": "Paiements REQ pour revocation radiation et declaration initiale",
+    "documents": [
+        {"cheque_declaration_initiale.jpg":115.00},
+        {"recu_recovation_radiation.pdf":35.00}
+    ],
+    "total": 150.00
+}

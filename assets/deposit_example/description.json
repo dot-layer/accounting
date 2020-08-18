@@ -3,6 +3,7 @@
     "event_date": "2019/03/12",
     "type": "deposit",
     "reason": "MeetUp sponsorship",
+    "total" : 1337.0
     "documents": [
         {"check_1.jpg":1337}
     ]

@@ -1,13 +1,29 @@
-transaction_id;date;detail;debit;credit;etat_financier;destination;destination_detail_1;destination_detail_2;destination_detail_3
-1;12-03-2019;Restant Souper Tomas Tam;35;;bilan;actif;banque;;
-1;12-03-2019;Restant Souper Tomas Tam;;35;er;revenu;don;membre;Christopher-blier-wong
-2;2019-05-21;Commandite - ML insurance;575;;bilan;actif;banque;;
-2;2019-05-21;Commandite - ML insurance;;575;er;revenu;Meetup;A19;
-3;2019-06-27;Photographie - Pikur;574.88;;er;depense;Meetup;A19;Pikur
-3;2019-06-27;Paiement - Pikur;;574.88;bilan;actif;banque;;
-4;2019-04-04;Inscription Workshop - ML assurance;;605;er;revenu;Workshop;A19;Inscription
-4;2019-07-04;Paiement - Evenbrite;605;;bilan;actif;banque;;
-5;2019-04-04;Nourriture Meetup - ML assurance;238.58;;er;depense;Meetup;A19;Nourriture
-5;2019-07-04;Remboursement David;;238.58;bilan;actif;banque;;
-6;2019-12-10;Commandite – MeetUp Réseautage;1000;;bilan;actif;banque;;
-6;2019-12-10;Commandite – MeetUp Réseautage;;1000;er;revenu;Meetup;A19;
+transaction_id,date,detail,debit,credit,etat_financier,destination,destination_detail_1,destination_detail_2,destination_detail_3
+1,12-03-2019,Restant Souper Tomas Tam,35,,bilan,actif,banque,,
+1,12-03-2019,Restant Souper Tomas Tam,,35,er,revenu,don,membre,Christopher-blier-wong
+2,2019-05-21,Commandite - ML insurance,575,,bilan,actif,banque,,
+2,2019-05-21,Commandite - ML insurance,,575,er,revenu,Meetup,A19,
+3,2019-06-27,Photographie - Pikur,574.88,,er,depense,Meetup,A19,Pikur
+3,2019-06-27,Paiement - Pikur,,574.88,bilan,actif,banque,,
+4,2019-04-04,Inscription Workshop - ML assurance,,605,er,revenu,Workshop,A19,Inscription
+4,2019-07-04,Paiement - Evenbrite,605,,bilan,actif,banque,,
+5,2019-04-04,Nourriture Meetup - ML assurance,238.58,,er,depense,Meetup,A19,Nourriture
+5,2019-07-04,Remboursement David,,238.58,bilan,actif,banque,,
+6,2020-03-02,Factures Meetup,778.37,,er,depense,Meetup,A19,Nourriture
+6,2020-03-02,Remboursement David,,778.37,bilan,actif,banque,,
+7,2020-05-06,Membership 2020 - Samuel Levesque ,20,0,bilan,actif,banque,,
+7,2020-05-06,Membership 2020 - Frederik Paradis,20,0,bilan,actif,banque,,
+7,2020-05-06,Membership 2020 - Etienne Larrivee-Hardy,20,0,bilan,actif,banque,,
+7,2020-05-06,Membership 2020 - Bruno Tremblay,20,0,bilan,actif,banque,,
+7,2020-05-06,Membership 2020 - Marouane Yassine,20,0,bilan,actif,banque,,
+7,2020-05-15,Membership 2020 - David Beauchemin,20,0,bilan,actif,banque,,
+7,2020-05-15,Membership 2020 - Stephane Caron,20,0,bilan,actif,banque,,
+7,2020-05-26,Membership 2020 - Jean-Thomas Baillargeon,20,0,bilan,actif,banque,,
+7,2020-05-26,Membership 2020 - Guillaume Chevalier,20,0,bilan,actif,banque,,
+7,2020-07-13,Membership 2020 - Christopher Blier-Wong,20,0,bilan,actif,banque,,
+7,2020-05-26,Membership 2020,,200,er,revenu,membership,,
+8,2020-08-18,Remboursement Stephane,150,,bilan,actif,banque,,
+8,2020-08-18,Pénalité de retard de paiement,,35,er,revenu,membership,,
+8,2020-08-18,Ouverture du dossier au registraire,,115,er,revenu,membership,,
+9;2019-12-10;Commandite – MeetUp Réseautage;1000;;bilan;actif;banque;;
+9;2019-12-10;Commandite – MeetUp Réseautage;;1000;er;revenu;Meetup;A19;
