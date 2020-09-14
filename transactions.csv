@@ -25,5 +25,5 @@ transaction_id,date,detail,debit,credit,etat_financier,destination,destination_d
 8,2020-08-18,Remboursement Stephane,150,,bilan,actif,banque,,
 8,2020-08-18,Pénalité de retard de paiement,,35,er,revenu,membership,,
 8,2020-08-18,Ouverture du dossier au registraire,,115,er,revenu,membership,,
-9;2019-12-10;Commandite – MeetUp Réseautage;1000;;bilan;actif;banque;;
-9;2019-12-10;Commandite – MeetUp Réseautage;;1000;er;revenu;Meetup;A19;
+9,2019-12-10,Commandite – MeetUp Réseautage,1000,,bilan,actif,banque,,
+9,2019-12-10,Commandite – MeetUp Réseautage,,1000,er,revenu,Meetup,A19,
