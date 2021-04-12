@@ -27,3 +27,8 @@ transaction_id,date,detail,debit,credit,etat_financier,destination,destination_d
 8,2020-08-18,Ouverture du dossier au registraire,,115,er,revenu,membership,,
 9,2019-12-10,Commandite – MeetUp Réseautage,1000,,bilan,actif,banque,,
 9,2019-12-10,Commandite – MeetUp Réseautage,,1000,er,revenu,Meetup,A19,
+10,2021-04-01,Membership 2021 - Samuel Perroch,20,0,bilan,actif,banque,,
+10,2021-04-01,Membership 2021 - Guillaume Chevalier,20,0,bilan,actif,banque,,
+10,2021-04-01,Membership 2021 - Mathieu Godbout,20,0,bilan,actif,banque,,
+10,2021-04-01,Membership 2021 – Philippe BL,20,0,bilan,actif,banque,,
+10,2021-04-01,Membership 2021,,80,er,revenu,membership,,
