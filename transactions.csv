@@ -31,4 +31,6 @@ transaction_id,date,detail,debit,credit,etat_financier,destination,destination_d
 10,2021-04-01,Membership 2021 - Guillaume Chevalier,20,0,bilan,actif,banque,,
 10,2021-04-01,Membership 2021 - Mathieu Godbout,20,0,bilan,actif,banque,,
 10,2021-04-01,Membership 2021 – Philippe BL,20,0,bilan,actif,banque,,
-10,2021-04-01,Membership 2021,,80,er,revenu,membership,,
+10,2021-04-01,Membership 2021 – Annie Deshaies,20,0,bilan,actif,banque,,
+10,2021-04-01,Membership 2021 – Marco Maurais,20,0,bilan,actif,banque,,
+10,2021-04-01,Membership 2021,,120,er,revenu,membership,,
