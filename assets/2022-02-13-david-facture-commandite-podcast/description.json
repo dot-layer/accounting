@@ -1,0 +1,10 @@
+{
+    "name": "David Beauchemin",
+    "event_date": "2022/02/13",
+    "type": "refund",
+    "reason": "paiement commandite cooperators podcast",
+    "documents": [
+        {"ramq_podcast.pdf":1149.75}
+    ],
+    "total": 1149.75
+}
