@@ -1,0 +1,10 @@
+{
+    "name": "Mathieu Godbout",
+    "event_date": "2022/08/02",
+    "type": "refund",
+    "reason": "Frais de retard de déclaration annuelle REQ",
+    "total": 18.5,
+    "documents": [
+        {"REQ_frais_retard.pdf":150}
+    ]
+}
