@@ -1,0 +1,10 @@
+{
+    "name": "David Beauchemin",
+    "event_date": "2022/08/25",
+    "type": "refund",
+    "reason": "paiement nom domaine",
+    "documents": [
+        {"namecheap-transaction-121531374.pdf":15.16}
+    ],
+    "total": 15.16
+}
