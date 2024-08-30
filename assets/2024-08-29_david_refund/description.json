@@ -1,4 +1,4 @@
-{
+[{
     "name": "David Beauchemin",
     "event_date": "2024/08/29",
     "type": "refund",
@@ -7,4 +7,14 @@
         {"namecheap-transaction-121531374.pdf":21.30}
     ],
     "total": 21.30
-}
+},
+{
+    "name": "Mathieu Godbout",
+    "event_date": "2024/08/23",
+    "type": "refund",
+    "reason": "paiement registre entreprises",
+    "documents": [
+        {"Paiement_registre_2024.png":19.50}
+    ],
+    "total": 19.50
+}]
